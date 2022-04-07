@@ -68,4 +68,4 @@ while 1:
             print("\nIllegal input!\n\n")
             continue
         
-print("Thanks for using!")
+print("Thank you for using it!")
